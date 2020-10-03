@@ -1,8 +1,8 @@
 # Setup
-title: Dark Poole
+title: Luis on the Keyboard
 url: https://luisonthekeyboard.github.io/
-paginate: 1
-baseurl: ""
+# paginate: 1
+# baseurl: ""
 
 # Gems
 plugins:
@@ -24,19 +24,11 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-# Options
-
-# Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
-
-# Custom vars
-version: 3.0.0
+  name: Luís Rodrigues Soares
+  url: https://luisonthekeyboard.com
 
 # Navbar page list
 nav:
