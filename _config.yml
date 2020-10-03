@@ -12,7 +12,7 @@ plugins:
 
 # Optimize Jekyll
 exclude:
-    - .git
+  - .git
   - .jekyll-cache
   - Gemfile
   - Gemfile.lock
