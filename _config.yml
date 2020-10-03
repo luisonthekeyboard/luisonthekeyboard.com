@@ -1,7 +1,7 @@
 # Setup
 title: Luis on the Keyboard
 url: https://luisonthekeyboard.github.io/
-# paginate: 1
+paginate: 1
 # baseurl: ""
 
 # Gems
@@ -12,8 +12,7 @@ plugins:
 
 # Optimize Jekyll
 exclude:
-  - .editorconfig
-  - .git
+    - .git
   - .jekyll-cache
   - Gemfile
   - Gemfile.lock
