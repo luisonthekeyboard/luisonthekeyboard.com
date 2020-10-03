@@ -2,7 +2,7 @@
 title: Luis on the Keyboard
 url: https://luisonthekeyboard.github.io/
 paginate: 1
-# baseurl: ""
+baseurl: ""
 
 # Gems
 plugins:
