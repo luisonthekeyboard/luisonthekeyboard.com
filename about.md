@@ -3,27 +3,21 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Welcome! I'm Luis and I've been writing about my work as a Software Engineer and a Tech Lead since 2007, give or take a couple of years.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Here you can find most of my thoughts and experiences, and how they've been affecting me throughout all these years.
 
-There are currently two themes built on Poole:
+Many things I've written represent the core of my values and character, so if you want to know me better, maybe start with these articles:
+-   [It\'s very difficult to be complete]
+-   [My Values as a Tech Lead]
+-   [How I decide when to leave my jobs]
+-   [Testing as part of a Software Engineer\'s job]
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+  [It\'s very difficult to be complete]: http://luisonthekeyboard.com/2017/11/07/the-balance-you-must-strike-as-a-tech-lead/
+  [My Values as a Tech Lead]: http://luisonthekeyboard.com/2017/08/17/my-values-roughly/
+  [How I decide when to leave my jobs]: http://luisonthekeyboard.com/2014/12/29/when-should-you-leave-your-job/
+  [Testing as part of a Software Engineer\'s job]: http://luisonthekeyboard.com/2011/03/28/so-what-do-you-think-about-testing/
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+There's still many things to say about this work happening between Engineering and Management. I have countless articles half-written in paper, notes, things I started but never ended... eventually all of it will find its way in here!
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Hope you enjoy the reading!
