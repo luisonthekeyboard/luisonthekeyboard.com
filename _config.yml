@@ -1,14 +1,11 @@
 # Setup
-title: Luis on the Keyboard
+title: Luís on the Keyboard
 tagline: Classic, but modern.
 url: https://luisonthekeyboard.github.io/
-paginate: 1
-baseurl: ""
 
 # Gems
 plugins:
   - jekyll-gist
-  - jekyll-paginate
   - jekyll-seo-tag
 
 # Optimize Jekyll
@@ -28,7 +25,7 @@ sass:
 # Specify the author for blog posts
 author:
   name: Luís Rodrigues Soares
-  url: https://luisonthekeyboard.com
+  url: https://luisonthekeyboard.github.io
 
 # Navbar page list
 nav:
