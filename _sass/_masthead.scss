@@ -8,24 +8,31 @@
   margin-bottom: var(--spacer-3);
 }
 
-.masthead-title {
+.masthead-home {
   margin-bottom: 0;
 
-  a {
+  a.title {
+    text-decoration: none;
+    color: var(--red-900);
+  }
+}
+
+.masthead-post {
+  margin-bottom: 0;
+
+  a.title {
     color: inherit;
     text-decoration: none;
-  }
-
-  small {
-    font-weight: 400;
-    opacity: 0.5;
-    font-size: .8rem;
   }
 }
 
 // Navbar styles
 .nav {
+  a {
+    text-decoration: none;
+  }
   float: right;
   line-height: 1.25rem;
   word-spacing: 1rem;
+  color:var(--gray-900)
 }

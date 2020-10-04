@@ -6,6 +6,9 @@ date: "2018-06-08"
 
 Dear Software Engineer,
 
+This is highly adapted from a long slack message I sent two of my engineers
+{: class="margin-note"}
+
 We have recently spoken about some difficult topics, tech debt, what are we doing to fix it (are we even fixing it), the quality of our code, those processes which have never been automated, and how this is affecting your happiness and joy at work.
 
 Your expression and comments made me feel like you're hopeless about the situation. So I would like to address that and remind you that these problems, like all problems, have a solution.
