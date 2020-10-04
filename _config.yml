@@ -32,8 +32,5 @@ author:
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /archive
-
   - title: About
     url: /about
