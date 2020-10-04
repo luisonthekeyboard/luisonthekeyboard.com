@@ -25,6 +25,12 @@
   --red-300: #ffa8a8;
   --red-400: #ff8787;
 
+  --red-600: #fa5252;
+  --red-700: #f03e3e;
+  --red-800: #e03131;
+  --red-900: #c92a2a;
+  
+
   --blue-300: #74c0fc;
   --blue-400: #4dabf7;
   --yellow-100: #fff3bf;
@@ -47,13 +53,14 @@
   --spacer-3: calc(var(--spacer) * 3);
 
 
-  --body-color: var(--gray-300);
-  --body-bg: var(--gray-800);
+  --body-color: var(--gray-600);
+  --body-bg: var(--gray-900);
 
   --heading-color: #fff;
+  --post-title: var(--red-900);
 
-  --link-color: var(--red-300);
-  --link-hover-color: var(--red-400);
+  --link-color: var(--gray-500);
+  --link-hover-color: var(--red-900);
 
   --border-color: rgba(255,255,255,.15);
 
