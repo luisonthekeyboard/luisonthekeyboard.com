@@ -13,10 +13,10 @@ Many things I've written represent the core of my values and character, so if yo
 -   [How I decide when to leave my jobs]
 -   [Testing as part of a Software Engineer\'s job]
 
-  [It\'s very difficult to be complete]: http://luisonthekeyboard.com/2017/11/07/the-balance-you-must-strike-as-a-tech-lead/
-  [My Values as a Tech Lead]: http://luisonthekeyboard.com/2017/08/17/my-values-roughly/
-  [How I decide when to leave my jobs]: http://luisonthekeyboard.com/2014/12/29/when-should-you-leave-your-job/
-  [Testing as part of a Software Engineer\'s job]: http://luisonthekeyboard.com/2011/03/28/so-what-do-you-think-about-testing/
+  [It\'s very difficult to be complete]: /2017/11/07/the-balance-you-must-strike-as-a-tech-lead/
+  [My Values as a Tech Lead]: /2017/08/17/my-values-roughly/
+  [How I decide when to leave my jobs]: /2014/12/29/when-should-you-leave-your-job/
+  [Testing as part of a Software Engineer\'s job]: /2011/03/28/so-what-do-you-think-about-testing/
 
 There's still many things to say about this work happening between Engineering and Management. I have countless articles half-written in paper, notes, things I started but never ended... eventually all of it will find its way in here!
 
