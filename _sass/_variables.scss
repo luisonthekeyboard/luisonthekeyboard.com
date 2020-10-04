@@ -26,6 +26,9 @@
   --yellow: #fab005;
   --orange: #fd7e14;
 
+  --red-300: #ffa8a8;
+  --red-400: #ff8787;
+
   --blue-300: #74c0fc;
   --blue-400: #4dabf7;
   --yellow-100: #fff3bf;
@@ -63,8 +66,8 @@
 
     --heading-color: #fff;
 
-    --link-color: var(--blue-300);
-    --link-hover-color: var(--blue-400);
+    --link-color: var(--red-300);
+    --link-hover-color: var(--red-400);
 
     --border-color: rgba(255, 255, 255, 0.15);
 
