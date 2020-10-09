@@ -13,7 +13,7 @@
 
   a.title {
     text-decoration: none;
-    color: var(--red-900);
+    color: var(--title);
   }
 }
 
@@ -28,11 +28,12 @@
 
 // Navbar styles
 .nav {
+  font-family: var(--title-font);
   a {
     text-decoration: none;
   }
   float: right;
   line-height: 1.25rem;
   word-spacing: 1rem;
-  color:var(--gray-900)
+  color:var(--title)
 }

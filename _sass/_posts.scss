@@ -15,6 +15,7 @@
 // Blog post or page title
 .page-title,
 .post-title {
+  font-family: var(--title-font);
   color: var(--title);
 }
 .page-title,
@@ -33,6 +34,7 @@
 
 // Meta data line below post title
 .post-date {
+  font-family: var(--title-font);
   display: block;
   margin-top: -.5rem;
   margin-bottom: var(--spacer);
