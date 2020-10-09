@@ -12,7 +12,7 @@
       {% else %}
         <h3 class="masthead-post">
       {% endif %}        
-        
+
           <a class="title" href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
 
           <nav class="nav">
@@ -20,7 +20,12 @@
             <a href="{{ nav.url }}">{{ nav.title }}</a>
             {% endfor %}
           </nav>
+
+      {% if page.title == "Home" %}
+        </h1>
+      {% else %}
         </h3>
+      {% endif %}
       </header>
 
       <main>
