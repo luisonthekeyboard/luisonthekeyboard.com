@@ -16,11 +16,11 @@ exclude:
   - Gemfile.lock
   - LICENSE.md
   - README.md
+  - archive.md
 
 sass:
   sass_dir: _sass
   style: :compressed
-
 
 # Specify the author for blog posts
 author:
