@@ -3,6 +3,21 @@
 # only main files contain this front matter, not partials.
 ---
 
+@font-face {
+  font-family: 'IM Fell English';
+  src: local('IM FELL English Roman'), local('IM_FELL_English_Roman'),
+  url('assets/im-fell-english.woff2') format('woff2'),
+  url('assets/im-fell-english.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Crimson Text';
+  src: local('Crimson Text Regular'), local('CrimsonText-Regular'),
+  url('assets/crimson-text.woff2') format('woff2'),
+  url('assets/crimson-text.woff') format('woff');
+}
+
+
 @import "variables";
 @import "base";
 @import "type";
