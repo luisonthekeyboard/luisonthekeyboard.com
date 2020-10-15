@@ -1,14 +1,11 @@
-# Setup
 title: Luís on the Keyboard
 tagline: Classic, but modern.
 url: https://luisonthekeyboard.github.io/
+timezone: Europe/Berlin
 
-# Gems
 plugins:
-  - jekyll-gist
   - jekyll-seo-tag
 
-# Optimize Jekyll
 exclude:
   - .git
   - .jekyll-cache
@@ -22,12 +19,10 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-# Specify the author for blog posts
 author:
   name: Luís Rodrigues Soares
   url: https://luisonthekeyboard.github.io
 
-# Navbar page list
 nav:
   - title: About
     url: /about
